@@ -1,4 +1,22 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "company-profile-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsaelsa95/company-profile-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elsaelsa95/company-profile-server/issues"
+  },
+  "homepage": "https://github.com/elsaelsa95/company-profile-server#readme",
+  "description": "",
   "dependencies": {
     "json-server": "^1.0.0-alpha.23"
   }
