@@ -5,7 +5,6 @@
   "name": "company-profile-server",
   "version": "1.0.0",
   "main": "api/server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elsaelsa95/company-profile-server.git"
@@ -17,7 +16,7 @@
   },
   "homepage": "https://github.com/elsaelsa95/company-profile-server#readme",
   "description": "",
-  "dependencies": {
-    "json-server": "^1.0.0-alpha.23"
+  "devDependencies": {
+    "json-server": "^0.17.4"
   }
 }
